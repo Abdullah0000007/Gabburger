@@ -1,0 +1,13 @@
+{
+  "name": "ristoro6",
+  "slug": "ristoro6",
+  "extra": {
+    "eas": {
+      "projectId": "ed9f2586-35b8-45cd-b965-aab5af18827e"
+    }
+  },
+  "owner": "plantasbu",
+  "android": {
+    "package": "com.plantasbu.ristoro6"
+  }
+}
